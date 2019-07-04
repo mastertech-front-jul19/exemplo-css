@@ -1,6 +1,11 @@
 a {
   font-weight: bold;
   font-style: italic;
+  color: white;
+  font-size: 2em;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: 'Bahianita', cursive;
 }
 
 h1 {
@@ -18,15 +23,6 @@ header {
   height: 200px;
 }
 
-
-article {
-  width: 60%;
-  height: 50vh;
-  background-color: blue
-}
-
-div {
-  height: 100px;
-  width: 80vw;
-  background-color: red;
+nav {
+  background-color: blue;
 }
