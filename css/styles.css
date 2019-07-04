@@ -1,11 +1,9 @@
 a {
   font-weight: bold;
-  font-style: italic;
-  color: white;
-  font-size: 2em;
   text-decoration: none;
   text-transform: uppercase;
   font-family: 'Bahianita', cursive;
+  color: red;
 }
 
 h1 {
@@ -23,6 +21,17 @@ header {
   height: 200px;
 }
 
+header a {
+  color: black;
+  font-size: 3em;
+}
+
 nav {
   background-color: blue;
+}
+
+nav a {
+  font-style: italic;
+  color: white;
+  font-size: 2em;
 }
