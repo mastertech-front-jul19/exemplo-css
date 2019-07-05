@@ -3,7 +3,7 @@ a {
   text-decoration: none;
   text-transform: uppercase;
   font-family: 'Bahianita', cursive;
-  color: red;
+  color: black;
 }
 
 h1 {
@@ -22,7 +22,6 @@ header {
 }
 
 header a {
-  color: black;
   font-size: 3em;
 }
 
@@ -32,6 +31,13 @@ nav {
 
 nav a {
   font-style: italic;
-  color: white;
   font-size: 2em;
+}
+
+.vermelho{
+  color: red;
+}
+
+.grande {
+  font-size: 4em;
 }
