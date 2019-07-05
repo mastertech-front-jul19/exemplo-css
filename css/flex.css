@@ -1,0 +1,21 @@
+.externa {
+  background-color: blue;
+  width: 80vw;
+  height: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: column;
+  flex-wrap: wrap;
+  /* align-content: flex-end; */
+}
+
+.interna {
+  background-color: red;
+  width: 150px;
+  height: 150px;
+  border: 2px solid black;
+  font-size: 4em;
+  display: flex;
+  align-items: center;
+}
