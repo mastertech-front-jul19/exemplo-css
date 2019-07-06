@@ -27,4 +27,7 @@
   top | bottom: 50px;
   left | right: 0; */
   /* align-self: flex-end; */
+  /* transform: rotate(45deg); */
+  transform: translate(-200px, -100px) scaleX(2) scaleY(0.8) rotate(60deg);
+  border-radius: 30px;
 }
