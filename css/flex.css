@@ -7,6 +7,8 @@
   justify-content: space-around;
   flex-direction: column;
   flex-wrap: wrap;
+  margin: 90px;
+  position: relative;
   /* align-content: flex-end; */
 }
 
@@ -18,4 +20,11 @@
   font-size: 4em;
   display: flex;
   align-items: center;
+}
+
+.rebelde{
+  /* position: absolute | relative | sticky | fixed;
+  top | bottom: 50px;
+  left | right: 0; */
+  /* align-self: flex-end; */
 }
